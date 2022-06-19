@@ -1,1 +1,1 @@
-# Toothnroll
+Extract cross sections from dental meshes at specified intervals. Calculate two and three-dimensional morphometric maps and semilandmarks on both the external and internal contours of each cross section. 
